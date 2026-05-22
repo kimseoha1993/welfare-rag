@@ -48,6 +48,9 @@ Thumbs.db
 # Claude Code local
 .claude/
 
+# Local docs (planning, notes, scratch)
+docs/
+
 # Logs
 *.log
 npm-debug.log*
